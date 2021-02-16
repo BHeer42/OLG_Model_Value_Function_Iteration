@@ -9,7 +9,7 @@ By Burkhard Heer and and Alfred Maußner
 
 --- Python Code: RCH91v.py
 
---- GAUSS Code: RCh91v.g
+--- GAUSS Code: RCh91v.g, you also need to install auxiliary files function.src and toolbox.src in the same directory
 
 
 The program is described in much more detail in our tutorial:
