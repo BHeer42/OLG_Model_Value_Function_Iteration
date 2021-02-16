@@ -14,7 +14,7 @@ By Burkhard Heer and and Alfred Maußner
 
 The program is described in much more detail in our tutorial:
 
-https://assets.uni-augsburg.de/media/filer_public/b0/4d/b04d79b7-2609-40ac-870b-126aada8e3f4/script_dge_python_11jan2021.html
+https://assets.uni-augsburg.de/media/filer_public/b7/f0/b7f016c2-22ab-4622-b519-a1167fab272f/script_dge_python_chapter9.html
 
 In order to run the Python program, you simply need to store the file in a directory and run it.
 
